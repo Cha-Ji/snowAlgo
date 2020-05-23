@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4E9625A0-0102-4C23-87A3-306B74903D2E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4E9625A0-0102-4C23-87A3-306B74903D2E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611565163.10100102</real>
+			<key>timeStoppedRecording</key>
+			<real>611565164.31932199</real>
+			<key>title</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>4E9625A0-0102-4C23-87A3-306B74903D2E</string>
+		</dict>
+		<key>55124589-93D7-4F52-ADE3-8F84C4A17138</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>55124589-93D7-4F52-ADE3-8F84C4A17138.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611564938.27669895</real>
+			<key>timeStoppedRecording</key>
+			<real>611564941.37443602</real>
+			<key>title</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>55124589-93D7-4F52-ADE3-8F84C4A17138</string>
+		</dict>
+		<key>7F24397B-F85F-42DC-856F-9545B9395384</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7F24397B-F85F-42DC-856F-9545B9395384.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611564627.01669896</real>
+			<key>timeStoppedRecording</key>
+			<real>611564639.41623402</real>
+			<key>title</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>7F24397B-F85F-42DC-856F-9545B9395384</string>
+		</dict>
+		<key>864812AC-8651-4F52-98BF-A23FC5F298C6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>864812AC-8651-4F52-98BF-A23FC5F298C6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611565199.85655797</real>
+			<key>timeStoppedRecording</key>
+			<real>611565200.93773305</real>
+			<key>title</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>864812AC-8651-4F52-98BF-A23FC5F298C6</string>
+		</dict>
+		<key>93BFB0EE-2718-4DBB-BE2F-EBE2BDB45F78</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>93BFB0EE-2718-4DBB-BE2F-EBE2BDB45F78.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611564613.93520904</real>
+			<key>timeStoppedRecording</key>
+			<real>611564626.32856297</real>
+			<key>title</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>93BFB0EE-2718-4DBB-BE2F-EBE2BDB45F78</string>
+		</dict>
+		<key>B4666268-2DCC-43F1-9841-60A073C8A355</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B4666268-2DCC-43F1-9841-60A073C8A355.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611566775.56639194</real>
+			<key>timeStoppedRecording</key>
+			<real>611566776.78843904</real>
+			<key>title</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>B4666268-2DCC-43F1-9841-60A073C8A355</string>
+		</dict>
+		<key>DF5ADA5D-47D1-409F-A6C6-E01C07EA4912</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DF5ADA5D-47D1-409F-A6C6-E01C07EA4912.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611565890.984779</real>
+			<key>timeStoppedRecording</key>
+			<real>611565892.15304399</real>
+			<key>title</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>DF5ADA5D-47D1-409F-A6C6-E01C07EA4912</string>
+		</dict>
+		<key>E689D1FC-9D2B-419F-BD7D-23CEE57E4794</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E689D1FC-9D2B-419F-BD7D-23CEE57E4794.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611564967.93789399</real>
+			<key>timeStoppedRecording</key>
+			<real>611564971.53465199</real>
+			<key>title</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>E689D1FC-9D2B-419F-BD7D-23CEE57E4794</string>
+		</dict>
+		<key>EAFB2358-FD5E-40A6-8507-FDC679B3F342</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EAFB2358-FD5E-40A6-8507-FDC679B3F342.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611564727.25690305</real>
+			<key>timeStoppedRecording</key>
+			<real>611564736.527354</real>
+			<key>title</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>EAFB2358-FD5E-40A6-8507-FDC679B3F342</string>
+		</dict>
+		<key>EC5A19F8-A9EF-4E6F-8403-5640A7486ADE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EC5A19F8-A9EF-4E6F-8403-5640A7486ADE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611567760.97844803</real>
+			<key>timeStoppedRecording</key>
+			<real>611567762.29080999</real>
+			<key>title</key>
+			<string>Run BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>EC5A19F8-A9EF-4E6F-8403-5640A7486ADE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

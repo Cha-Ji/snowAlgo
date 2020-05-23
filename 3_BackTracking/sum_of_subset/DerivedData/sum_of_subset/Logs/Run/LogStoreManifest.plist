@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>02B119CC-6863-4FDA-9697-1B84D6850CD3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>02B119CC-6863-4FDA-9697-1B84D6850CD3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sum_of_subset project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sum_of_subset</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run sum_of_subset</string>
+			<key>timeStartedRecording</key>
+			<real>611583123.61663103</real>
+			<key>timeStoppedRecording</key>
+			<real>611583144.85778701</real>
+			<key>title</key>
+			<string>Run sum_of_subset</string>
+			<key>uniqueIdentifier</key>
+			<string>02B119CC-6863-4FDA-9697-1B84D6850CD3</string>
+		</dict>
+		<key>2E17ED89-F555-4A67-A902-D3B801EDEFBA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2E17ED89-F555-4A67-A902-D3B801EDEFBA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sum_of_subset project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sum_of_subset</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run sum_of_subset</string>
+			<key>timeStartedRecording</key>
+			<real>611584141.29794395</real>
+			<key>timeStoppedRecording</key>
+			<real>611584156.93453097</real>
+			<key>title</key>
+			<string>Run sum_of_subset</string>
+			<key>uniqueIdentifier</key>
+			<string>2E17ED89-F555-4A67-A902-D3B801EDEFBA</string>
+		</dict>
+		<key>348F654E-732E-4A19-B03F-5FB0F9F77024</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>348F654E-732E-4A19-B03F-5FB0F9F77024.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sum_of_subset project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sum_of_subset</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run sum_of_subset</string>
+			<key>timeStartedRecording</key>
+			<real>611584157.33693004</real>
+			<key>timeStoppedRecording</key>
+			<real>611584178.584378</real>
+			<key>title</key>
+			<string>Run sum_of_subset</string>
+			<key>uniqueIdentifier</key>
+			<string>348F654E-732E-4A19-B03F-5FB0F9F77024</string>
+		</dict>
+		<key>6D2240BE-842A-4A1C-8703-E122923480DC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6D2240BE-842A-4A1C-8703-E122923480DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sum_of_subset project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sum_of_subset</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run sum_of_subset</string>
+			<key>timeStartedRecording</key>
+			<real>611583634.25296795</real>
+			<key>timeStoppedRecording</key>
+			<real>611583655.52423596</real>
+			<key>title</key>
+			<string>Run sum_of_subset</string>
+			<key>uniqueIdentifier</key>
+			<string>6D2240BE-842A-4A1C-8703-E122923480DC</string>
+		</dict>
+		<key>9DA13715-C5B9-4F92-B428-84B0EAA59D75</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9DA13715-C5B9-4F92-B428-84B0EAA59D75.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sum_of_subset project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sum_of_subset</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run sum_of_subset</string>
+			<key>timeStartedRecording</key>
+			<real>611583069.97091198</real>
+			<key>timeStoppedRecording</key>
+			<real>611583071.29918301</real>
+			<key>title</key>
+			<string>Run sum_of_subset</string>
+			<key>uniqueIdentifier</key>
+			<string>9DA13715-C5B9-4F92-B428-84B0EAA59D75</string>
+		</dict>
+		<key>F7B029F1-F6E2-4ABC-927B-9F582EE0957F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F7B029F1-F6E2-4ABC-927B-9F582EE0957F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sum_of_subset project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sum_of_subset</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run sum_of_subset</string>
+			<key>timeStartedRecording</key>
+			<real>611583263.03765404</real>
+			<key>timeStoppedRecording</key>
+			<real>611583284.32924604</real>
+			<key>title</key>
+			<string>Run sum_of_subset</string>
+			<key>uniqueIdentifier</key>
+			<string>F7B029F1-F6E2-4ABC-927B-9F582EE0957F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

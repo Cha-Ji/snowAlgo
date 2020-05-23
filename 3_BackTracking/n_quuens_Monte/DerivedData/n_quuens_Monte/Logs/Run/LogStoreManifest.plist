@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3108C035-ADBD-4DAE-8FE7-AA654AFE5143</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3108C035-ADBD-4DAE-8FE7-AA654AFE5143.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>n_quuens_Monte project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>n_quuens_Monte</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run n_quuens_Monte</string>
+			<key>timeStartedRecording</key>
+			<real>611571896.814116</real>
+			<key>timeStoppedRecording</key>
+			<real>611571920.23334098</real>
+			<key>title</key>
+			<string>Run n_quuens_Monte</string>
+			<key>uniqueIdentifier</key>
+			<string>3108C035-ADBD-4DAE-8FE7-AA654AFE5143</string>
+		</dict>
+		<key>347E5828-71EB-49EB-B973-B03B4F8E523C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>347E5828-71EB-49EB-B973-B03B4F8E523C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>n_quuens_Monte project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>n_quuens_Monte</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run n_quuens_Monte</string>
+			<key>timeStartedRecording</key>
+			<real>611571483.20099998</real>
+			<key>timeStoppedRecording</key>
+			<real>611571485.28548205</real>
+			<key>title</key>
+			<string>Run n_quuens_Monte</string>
+			<key>uniqueIdentifier</key>
+			<string>347E5828-71EB-49EB-B973-B03B4F8E523C</string>
+		</dict>
+		<key>394BF907-C968-4770-AC82-C49DF6CEEF19</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>394BF907-C968-4770-AC82-C49DF6CEEF19.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>n_quuens_Monte project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>n_quuens_Monte</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run n_quuens_Monte</string>
+			<key>timeStartedRecording</key>
+			<real>611571441.09805596</real>
+			<key>timeStoppedRecording</key>
+			<real>611571443.71908998</real>
+			<key>title</key>
+			<string>Run n_quuens_Monte</string>
+			<key>uniqueIdentifier</key>
+			<string>394BF907-C968-4770-AC82-C49DF6CEEF19</string>
+		</dict>
+		<key>3C348495-3113-449C-8AFA-26245E97AE7F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3C348495-3113-449C-8AFA-26245E97AE7F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>n_quuens_Monte project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>n_quuens_Monte</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run n_quuens_Monte</string>
+			<key>timeStartedRecording</key>
+			<real>611570560.995947</real>
+			<key>timeStoppedRecording</key>
+			<real>611570602.53352594</real>
+			<key>title</key>
+			<string>Run n_quuens_Monte</string>
+			<key>uniqueIdentifier</key>
+			<string>3C348495-3113-449C-8AFA-26245E97AE7F</string>
+		</dict>
+		<key>ADE125B6-4385-468E-97E3-E248CC908E92</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ADE125B6-4385-468E-97E3-E248CC908E92.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>n_quuens_Monte project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>n_quuens_Monte</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run n_quuens_Monte</string>
+			<key>timeStartedRecording</key>
+			<real>611571475.89060497</real>
+			<key>timeStoppedRecording</key>
+			<real>611571479.24661803</real>
+			<key>title</key>
+			<string>Run n_quuens_Monte</string>
+			<key>uniqueIdentifier</key>
+			<string>ADE125B6-4385-468E-97E3-E248CC908E92</string>
+		</dict>
+		<key>C40CA996-E4A5-4FD3-B5BF-14828C5315DA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C40CA996-E4A5-4FD3-B5BF-14828C5315DA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>n_quuens_Monte project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>n_quuens_Monte</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run n_quuens_Monte</string>
+			<key>timeStartedRecording</key>
+			<real>611571374.23761106</real>
+			<key>timeStoppedRecording</key>
+			<real>611571384.50470102</real>
+			<key>title</key>
+			<string>Run n_quuens_Monte</string>
+			<key>uniqueIdentifier</key>
+			<string>C40CA996-E4A5-4FD3-B5BF-14828C5315DA</string>
+		</dict>
+		<key>F31C3311-046E-4382-BDB3-821F11F52013</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F31C3311-046E-4382-BDB3-821F11F52013.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>n_quuens_Monte project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>n_quuens_Monte</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run n_quuens_Monte</string>
+			<key>timeStartedRecording</key>
+			<real>611571624.55771005</real>
+			<key>timeStoppedRecording</key>
+			<real>611571627.869066</real>
+			<key>title</key>
+			<string>Run n_quuens_Monte</string>
+			<key>uniqueIdentifier</key>
+			<string>F31C3311-046E-4382-BDB3-821F11F52013</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

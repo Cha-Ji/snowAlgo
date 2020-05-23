@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>03C7B315-FA34-4F8C-9E12-1CAC07FAE0E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>03C7B315-FA34-4F8C-9E12-1CAC07FAE0E0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>n_quuens_Monte project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>n_quuens_Monte</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build n_quuens_Monte</string>
+			<key>timeStartedRecording</key>
+			<real>611571483.16261101</real>
+			<key>timeStoppedRecording</key>
+			<real>611571483.198668</real>
+			<key>title</key>
+			<string>Build n_quuens_Monte</string>
+			<key>uniqueIdentifier</key>
+			<string>03C7B315-FA34-4F8C-9E12-1CAC07FAE0E0</string>
+		</dict>
+		<key>1507B050-7388-4E69-B891-F8345B13BA23</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1507B050-7388-4E69-B891-F8345B13BA23.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>n_quuens_Monte project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>n_quuens_Monte</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build n_quuens_Monte</string>
+			<key>timeStartedRecording</key>
+			<real>611571624.18858004</real>
+			<key>timeStoppedRecording</key>
+			<real>611571624.55522203</real>
+			<key>title</key>
+			<string>Build n_quuens_Monte</string>
+			<key>uniqueIdentifier</key>
+			<string>1507B050-7388-4E69-B891-F8345B13BA23</string>
+		</dict>
+		<key>39729DE5-DA4D-4651-B833-B4AB505A06D0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>39729DE5-DA4D-4651-B833-B4AB505A06D0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>n_quuens_Monte project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>n_quuens_Monte</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build n_quuens_Monte</string>
+			<key>timeStartedRecording</key>
+			<real>611571440.10634696</real>
+			<key>timeStoppedRecording</key>
+			<real>611571441.09525001</real>
+			<key>title</key>
+			<string>Build n_quuens_Monte</string>
+			<key>uniqueIdentifier</key>
+			<string>39729DE5-DA4D-4651-B833-B4AB505A06D0</string>
+		</dict>
+		<key>6FC74190-B2DD-4479-99F7-3B18D153CCD1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6FC74190-B2DD-4479-99F7-3B18D153CCD1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>n_quuens_Monte project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>n_quuens_Monte</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build n_quuens_Monte</string>
+			<key>timeStartedRecording</key>
+			<real>611570559.99344206</real>
+			<key>timeStoppedRecording</key>
+			<real>611570560.99073505</real>
+			<key>title</key>
+			<string>Build n_quuens_Monte</string>
+			<key>uniqueIdentifier</key>
+			<string>6FC74190-B2DD-4479-99F7-3B18D153CCD1</string>
+		</dict>
+		<key>8955F816-2D68-4BAD-89BA-B3833BE4CABD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8955F816-2D68-4BAD-89BA-B3833BE4CABD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>n_quuens_Monte project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>n_quuens_Monte</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build n_quuens_Monte</string>
+			<key>timeStartedRecording</key>
+			<real>611571373.83567405</real>
+			<key>timeStoppedRecording</key>
+			<real>611571374.23498201</real>
+			<key>title</key>
+			<string>Build n_quuens_Monte</string>
+			<key>uniqueIdentifier</key>
+			<string>8955F816-2D68-4BAD-89BA-B3833BE4CABD</string>
+		</dict>
+		<key>AE046531-16BC-488D-809E-1760C60F6537</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE046531-16BC-488D-809E-1760C60F6537.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>n_quuens_Monte project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>n_quuens_Monte</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build n_quuens_Monte</string>
+			<key>timeStartedRecording</key>
+			<real>611571475.67885101</real>
+			<key>timeStoppedRecording</key>
+			<real>611571475.88815498</real>
+			<key>title</key>
+			<string>Build n_quuens_Monte</string>
+			<key>uniqueIdentifier</key>
+			<string>AE046531-16BC-488D-809E-1760C60F6537</string>
+		</dict>
+		<key>BC04BBA3-AE2B-4748-B239-23E2C1F31BE0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BC04BBA3-AE2B-4748-B239-23E2C1F31BE0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>n_quuens_Monte project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>n_quuens_Monte</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build n_quuens_Monte</string>
+			<key>timeStartedRecording</key>
+			<real>611571895.80352604</real>
+			<key>timeStoppedRecording</key>
+			<real>611571896.81021595</real>
+			<key>title</key>
+			<string>Build n_quuens_Monte</string>
+			<key>uniqueIdentifier</key>
+			<string>BC04BBA3-AE2B-4748-B239-23E2C1F31BE0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

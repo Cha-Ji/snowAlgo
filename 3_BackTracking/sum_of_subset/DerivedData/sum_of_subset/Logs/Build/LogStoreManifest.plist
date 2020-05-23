@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0EBB05B7-FE74-4902-9A93-FA17A61DF937</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0EBB05B7-FE74-4902-9A93-FA17A61DF937.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sum_of_subset project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sum_of_subset</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build sum_of_subset</string>
+			<key>timeStartedRecording</key>
+			<real>611583123.30556703</real>
+			<key>timeStoppedRecording</key>
+			<real>611583123.61442101</real>
+			<key>title</key>
+			<string>Build sum_of_subset</string>
+			<key>uniqueIdentifier</key>
+			<string>0EBB05B7-FE74-4902-9A93-FA17A61DF937</string>
+		</dict>
+		<key>1A73E93F-53AF-42ED-AA5F-D6C67D9387D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1A73E93F-53AF-42ED-AA5F-D6C67D9387D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sum_of_subset project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sum_of_subset</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build sum_of_subset</string>
+			<key>timeStartedRecording</key>
+			<real>611583633.91362202</real>
+			<key>timeStoppedRecording</key>
+			<real>611583634.25032902</real>
+			<key>title</key>
+			<string>Build sum_of_subset</string>
+			<key>uniqueIdentifier</key>
+			<string>1A73E93F-53AF-42ED-AA5F-D6C67D9387D7</string>
+		</dict>
+		<key>37685373-166B-49DA-A21F-06DA5F022DE9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>37685373-166B-49DA-A21F-06DA5F022DE9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sum_of_subset project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sum_of_subset</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build sum_of_subset</string>
+			<key>timeStartedRecording</key>
+			<real>611584157.11971605</real>
+			<key>timeStoppedRecording</key>
+			<real>611584157.33459902</real>
+			<key>title</key>
+			<string>Build sum_of_subset</string>
+			<key>uniqueIdentifier</key>
+			<string>37685373-166B-49DA-A21F-06DA5F022DE9</string>
+		</dict>
+		<key>5B4217A3-F7EF-4684-9071-7237B34269C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5B4217A3-F7EF-4684-9071-7237B34269C3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sum_of_subset project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sum_of_subset</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build sum_of_subset</string>
+			<key>timeStartedRecording</key>
+			<real>611584140.30062199</real>
+			<key>timeStoppedRecording</key>
+			<real>611584141.29420304</real>
+			<key>title</key>
+			<string>Build sum_of_subset</string>
+			<key>uniqueIdentifier</key>
+			<string>5B4217A3-F7EF-4684-9071-7237B34269C3</string>
+		</dict>
+		<key>657973BB-9D45-4BA8-9C5A-F0BA2F61E835</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>657973BB-9D45-4BA8-9C5A-F0BA2F61E835.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sum_of_subset project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sum_of_subset</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build sum_of_subset</string>
+			<key>timeStartedRecording</key>
+			<real>611583067.98146904</real>
+			<key>timeStoppedRecording</key>
+			<real>611583069.96755803</real>
+			<key>title</key>
+			<string>Build sum_of_subset</string>
+			<key>uniqueIdentifier</key>
+			<string>657973BB-9D45-4BA8-9C5A-F0BA2F61E835</string>
+		</dict>
+		<key>BF6A7B20-E191-481B-AF09-0A7779D53B9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BF6A7B20-E191-481B-AF09-0A7779D53B9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sum_of_subset project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sum_of_subset</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build sum_of_subset</string>
+			<key>timeStartedRecording</key>
+			<real>611583262.71055698</real>
+			<key>timeStoppedRecording</key>
+			<real>611583263.03541303</real>
+			<key>title</key>
+			<string>Build sum_of_subset</string>
+			<key>uniqueIdentifier</key>
+			<string>BF6A7B20-E191-481B-AF09-0A7779D53B9B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

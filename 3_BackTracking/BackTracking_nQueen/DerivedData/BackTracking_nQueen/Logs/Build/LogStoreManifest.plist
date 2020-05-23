@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2DDB8148-AE10-4696-B5A1-DC1FA8AAAC00</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2DDB8148-AE10-4696-B5A1-DC1FA8AAAC00.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611567760.00492597</real>
+			<key>timeStoppedRecording</key>
+			<real>611567760.97503102</real>
+			<key>title</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>2DDB8148-AE10-4696-B5A1-DC1FA8AAAC00</string>
+		</dict>
+		<key>32C26255-6F2E-4A68-A42F-F4DFE94A2B57</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32C26255-6F2E-4A68-A42F-F4DFE94A2B57.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611564726.45339894</real>
+			<key>timeStoppedRecording</key>
+			<real>611564727.25462699</real>
+			<key>title</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>32C26255-6F2E-4A68-A42F-F4DFE94A2B57</string>
+		</dict>
+		<key>3C14CBD7-9E0B-4239-A1FA-4D035B23BA8E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C14CBD7-9E0B-4239-A1FA-4D035B23BA8E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611565199.63456202</real>
+			<key>timeStoppedRecording</key>
+			<real>611565199.85448599</real>
+			<key>title</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>3C14CBD7-9E0B-4239-A1FA-4D035B23BA8E</string>
+		</dict>
+		<key>6607CCE8-EDD0-4B0B-9BAA-86984B64F3D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6607CCE8-EDD0-4B0B-9BAA-86984B64F3D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611566774.69140804</real>
+			<key>timeStoppedRecording</key>
+			<real>611566775.56260502</real>
+			<key>title</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>6607CCE8-EDD0-4B0B-9BAA-86984B64F3D7</string>
+		</dict>
+		<key>69926E11-A92F-46E7-A824-85EBC2964522</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>69926E11-A92F-46E7-A824-85EBC2964522.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611564612.59181905</real>
+			<key>timeStoppedRecording</key>
+			<real>611564613.91158104</real>
+			<key>title</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>69926E11-A92F-46E7-A824-85EBC2964522</string>
+		</dict>
+		<key>94DB3985-468A-4501-8637-3AF29F319CAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>94DB3985-468A-4501-8637-3AF29F319CAC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611565162.70484602</real>
+			<key>timeStoppedRecording</key>
+			<real>611565163.09888995</real>
+			<key>title</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>94DB3985-468A-4501-8637-3AF29F319CAC</string>
+		</dict>
+		<key>98A5B821-7D46-41EC-AD89-6ACAA0854DF5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>98A5B821-7D46-41EC-AD89-6ACAA0854DF5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611565890.65172303</real>
+			<key>timeStoppedRecording</key>
+			<real>611565890.98234105</real>
+			<key>title</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>98A5B821-7D46-41EC-AD89-6ACAA0854DF5</string>
+		</dict>
+		<key>9F11B824-AC6C-4474-8498-D5EF2F1AE444</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9F11B824-AC6C-4474-8498-D5EF2F1AE444.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611564967.71340406</real>
+			<key>timeStoppedRecording</key>
+			<real>611564967.93569195</real>
+			<key>title</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>9F11B824-AC6C-4474-8498-D5EF2F1AE444</string>
+		</dict>
+		<key>F4C1BD3D-218E-4717-9171-239C134B4AC5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F4C1BD3D-218E-4717-9171-239C134B4AC5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611564937.37720299</real>
+			<key>timeStoppedRecording</key>
+			<real>611564938.273085</real>
+			<key>title</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>F4C1BD3D-218E-4717-9171-239C134B4AC5</string>
+		</dict>
+		<key>F93D9A88-4CC9-4529-9276-A23FF4E18EEC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F93D9A88-4CC9-4529-9276-A23FF4E18EEC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackTracking_nQueen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackTracking_nQueen</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>timeStartedRecording</key>
+			<real>611564626.72431505</real>
+			<key>timeStoppedRecording</key>
+			<real>611564627.01441503</real>
+			<key>title</key>
+			<string>Build BackTracking_nQueen</string>
+			<key>uniqueIdentifier</key>
+			<string>F93D9A88-4CC9-4529-9276-A23FF4E18EEC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

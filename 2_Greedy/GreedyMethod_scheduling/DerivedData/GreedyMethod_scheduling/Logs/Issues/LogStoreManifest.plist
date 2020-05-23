@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>26B7D7B9-9FC0-4E40-8D59-022413B2D68A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>26B7D7B9-9FC0-4E40-8D59-022413B2D68A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>GreedyMethod_scheduling-eqrjuliwooihdabotikuhbkjtqeq</string>
+			<key>timeStartedRecording</key>
+			<real>610821477.08279896</real>
+			<key>timeStoppedRecording</key>
+			<real>610821477.25725806</real>
+			<key>title</key>
+			<string>Build target GreedyMethod_scheduling</string>
+			<key>uniqueIdentifier</key>
+			<string>26B7D7B9-9FC0-4E40-8D59-022413B2D68A</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
