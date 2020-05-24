@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2C5562BB-E88B-4D78-9D45-09D9B9788C29</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2C5562BB-E88B-4D78-9D45-09D9B9788C29.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hamitonian project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hamitonian</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Hamitonian</string>
+			<key>timeStartedRecording</key>
+			<real>611991576.27402902</real>
+			<key>timeStoppedRecording</key>
+			<real>611991576.425704</real>
+			<key>title</key>
+			<string>Build Hamitonian</string>
+			<key>uniqueIdentifier</key>
+			<string>2C5562BB-E88B-4D78-9D45-09D9B9788C29</string>
+		</dict>
+		<key>32F9BF14-117A-4329-BB26-434A87748673</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32F9BF14-117A-4329-BB26-434A87748673.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hamitonian project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hamitonian</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Hamitonian</string>
+			<key>timeStartedRecording</key>
+			<real>611991556.02393198</real>
+			<key>timeStoppedRecording</key>
+			<real>611991557.58491898</real>
+			<key>title</key>
+			<string>Build Hamitonian</string>
+			<key>uniqueIdentifier</key>
+			<string>32F9BF14-117A-4329-BB26-434A87748673</string>
+		</dict>
+		<key>514DE29E-88AF-44C4-964E-CF35EDA21A0B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>514DE29E-88AF-44C4-964E-CF35EDA21A0B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hamitonian project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hamitonian</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Hamitonian</string>
+			<key>timeStartedRecording</key>
+			<real>611991459.06445599</real>
+			<key>timeStoppedRecording</key>
+			<real>611991459.37654102</real>
+			<key>title</key>
+			<string>Build Hamitonian</string>
+			<key>uniqueIdentifier</key>
+			<string>514DE29E-88AF-44C4-964E-CF35EDA21A0B</string>
+		</dict>
+		<key>5173DBC4-1E8D-4F12-8EA4-B0E92CBB7385</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5173DBC4-1E8D-4F12-8EA4-B0E92CBB7385.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hamitonian project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hamitonian</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Hamitonian</string>
+			<key>timeStartedRecording</key>
+			<real>611991433.75760102</real>
+			<key>timeStoppedRecording</key>
+			<real>611991434.47568595</real>
+			<key>title</key>
+			<string>Build Hamitonian</string>
+			<key>uniqueIdentifier</key>
+			<string>5173DBC4-1E8D-4F12-8EA4-B0E92CBB7385</string>
+		</dict>
+		<key>6915CE96-D0C4-4DE0-9FC5-13B6414B933C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6915CE96-D0C4-4DE0-9FC5-13B6414B933C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hamitonian project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hamitonian</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Hamitonian</string>
+			<key>timeStartedRecording</key>
+			<real>611991212.58129203</real>
+			<key>timeStoppedRecording</key>
+			<real>611991212.87940395</real>
+			<key>title</key>
+			<string>Build Hamitonian</string>
+			<key>uniqueIdentifier</key>
+			<string>6915CE96-D0C4-4DE0-9FC5-13B6414B933C</string>
+		</dict>
+		<key>74BD175A-5A91-4BED-A39F-E2DC072E3CFB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>74BD175A-5A91-4BED-A39F-E2DC072E3CFB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hamitonian project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hamitonian</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Hamitonian</string>
+			<key>timeStartedRecording</key>
+			<real>611991233.265993</real>
+			<key>timeStoppedRecording</key>
+			<real>611991233.52097595</real>
+			<key>title</key>
+			<string>Build Hamitonian</string>
+			<key>uniqueIdentifier</key>
+			<string>74BD175A-5A91-4BED-A39F-E2DC072E3CFB</string>
+		</dict>
+		<key>841BC593-B822-42D3-882D-0F15446207F3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>841BC593-B822-42D3-882D-0F15446207F3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hamitonian project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hamitonian</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Hamitonian</string>
+			<key>timeStartedRecording</key>
+			<real>611991361.47184205</real>
+			<key>timeStoppedRecording</key>
+			<real>611991362.266168</real>
+			<key>title</key>
+			<string>Build Hamitonian</string>
+			<key>uniqueIdentifier</key>
+			<string>841BC593-B822-42D3-882D-0F15446207F3</string>
+		</dict>
+		<key>A8202743-E5D5-4C13-9D1F-C3EC206B39E1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A8202743-E5D5-4C13-9D1F-C3EC206B39E1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hamitonian project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hamitonian</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Hamitonian</string>
+			<key>timeStartedRecording</key>
+			<real>611991234.47026098</real>
+			<key>timeStoppedRecording</key>
+			<real>611991234.52285898</real>
+			<key>title</key>
+			<string>Build Hamitonian</string>
+			<key>uniqueIdentifier</key>
+			<string>A8202743-E5D5-4C13-9D1F-C3EC206B39E1</string>
+		</dict>
+		<key>BB08D3A8-342C-4115-918E-4172C164BF55</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BB08D3A8-342C-4115-918E-4172C164BF55.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hamitonian project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hamitonian</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze Hamitonian</string>
+			<key>timeStartedRecording</key>
+			<real>611991544.10584402</real>
+			<key>timeStoppedRecording</key>
+			<real>611991545.71289206</real>
+			<key>title</key>
+			<string>Analyze Hamitonian</string>
+			<key>uniqueIdentifier</key>
+			<string>BB08D3A8-342C-4115-918E-4172C164BF55</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

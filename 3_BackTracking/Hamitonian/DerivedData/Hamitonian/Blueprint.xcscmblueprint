@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1BB363BB8FE9E298C24A27BDD5CAD5B7B8DBE192",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1BB363BB8FE9E298C24A27BDD5CAD5B7B8DBE192" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D9A4B9B3-7AED-48F2-A8BB-733158CEC2F0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1BB363BB8FE9E298C24A27BDD5CAD5B7B8DBE192" : "snowAlgo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Hamitonian",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "3_BackTracking\/Hamitonian\/Hamitonian.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Cha-Ji\/snowAlgo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1BB363BB8FE9E298C24A27BDD5CAD5B7B8DBE192"
+    }
+  ]
+}
