@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1BB363BB8FE9E298C24A27BDD5CAD5B7B8DBE192",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1BB363BB8FE9E298C24A27BDD5CAD5B7B8DBE192" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CEF5CC27-752D-4239-8D33-A42FBF8EA7D7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1BB363BB8FE9E298C24A27BDD5CAD5B7B8DBE192" : "snowAlgo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "01KnapSack_BackTrack",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "3_BackTracking\/01KnapSack_BackTrack\/01KnapSack_BackTrack.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Cha-Ji\/snowAlgo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1BB363BB8FE9E298C24A27BDD5CAD5B7B8DBE192"
+    }
+  ]
+}

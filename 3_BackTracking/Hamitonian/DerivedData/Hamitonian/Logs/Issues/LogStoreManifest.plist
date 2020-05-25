@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>CD8A1A4D-55F7-4D4D-ACEA-26E2C6A7E0EE</key>
+		<key>8C31CF98-5153-4538-9E13-DC7146BF82C5</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
 			<key>fileName</key>
-			<string>CD8A1A4D-55F7-4D4D-ACEA-26E2C6A7E0EE.xcactivitylog</string>
+			<string>8C31CF98-5153-4538-9E13-DC7146BF82C5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>Hamitonian-gvudaxqbpkspivemdkikruastwyu</string>
 			<key>timeStartedRecording</key>
-			<real>611991576.32196999</real>
+			<real>612010306.18570602</real>
 			<key>timeStoppedRecording</key>
-			<real>611991576.42136502</real>
+			<real>612010307.44697201</real>
 			<key>title</key>
 			<string>Build target Hamitonian</string>
 			<key>uniqueIdentifier</key>
-			<string>CD8A1A4D-55F7-4D4D-ACEA-26E2C6A7E0EE</string>
+			<string>8C31CF98-5153-4538-9E13-DC7146BF82C5</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
