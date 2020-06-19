@@ -6,74 +6,6 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>04AA1A75-2343-4F70-9683-FC4095C013B4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>04AA1A75-2343-4F70-9683-FC4095C013B4.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>01KnapSack_BackTrack project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>01KnapSack_BackTrack</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build 01KnapSack_BackTrack</string>
-			<key>timeStartedRecording</key>
-			<real>612078969.05689001</real>
-			<key>timeStoppedRecording</key>
-			<real>612078971.57700896</real>
-			<key>title</key>
-			<string>Build 01KnapSack_BackTrack</string>
-			<key>uniqueIdentifier</key>
-			<string>04AA1A75-2343-4F70-9683-FC4095C013B4</string>
-		</dict>
-		<key>543AB861-12AB-4FC0-BE30-A3D387E42D96</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>543AB861-12AB-4FC0-BE30-A3D387E42D96.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>01KnapSack_BackTrack project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>01KnapSack_BackTrack</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build 01KnapSack_BackTrack</string>
-			<key>timeStartedRecording</key>
-			<real>612078997.11155403</real>
-			<key>timeStoppedRecording</key>
-			<real>612078997.43251503</real>
-			<key>title</key>
-			<string>Build 01KnapSack_BackTrack</string>
-			<key>uniqueIdentifier</key>
-			<string>543AB861-12AB-4FC0-BE30-A3D387E42D96</string>
-		</dict>
 		<key>57AFD157-5967-47C3-8D53-119F1FA63E43</key>
 		<dict>
 			<key>className</key>
@@ -108,7 +40,7 @@
 			<key>uniqueIdentifier</key>
 			<string>57AFD157-5967-47C3-8D53-119F1FA63E43</string>
 		</dict>
-		<key>B04A8F14-7F21-4666-B53E-ECC174A1DA91</key>
+		<key>CAC3DB3B-1A27-49AF-AB50-D0F95E02A109</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -117,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B04A8F14-7F21-4666-B53E-ECC174A1DA91.xcactivitylog</string>
+			<string>CAC3DB3B-1A27-49AF-AB50-D0F95E02A109.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,13 +66,13 @@
 			<key>signature</key>
 			<string>Build 01KnapSack_BackTrack</string>
 			<key>timeStartedRecording</key>
-			<real>612079321.23943996</real>
+			<real>613771819.18904996</real>
 			<key>timeStoppedRecording</key>
-			<real>612079322.18271697</real>
+			<real>613771820.28685498</real>
 			<key>title</key>
 			<string>Build 01KnapSack_BackTrack</string>
 			<key>uniqueIdentifier</key>
-			<string>B04A8F14-7F21-4666-B53E-ECC174A1DA91</string>
+			<string>CAC3DB3B-1A27-49AF-AB50-D0F95E02A109</string>
 		</dict>
 	</dict>
 </dict>

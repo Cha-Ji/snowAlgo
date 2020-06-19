@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1BB363BB8FE9E298C24A27BDD5CAD5B7B8DBE192",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1BB363BB8FE9E298C24A27BDD5CAD5B7B8DBE192" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "62805E19-9CEF-4A0A-AEB8-7C7A82E6D90D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1BB363BB8FE9E298C24A27BDD5CAD5B7B8DBE192" : "snowAlgo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Algo_Exam",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Algo_Exam\/Algo_Exam.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Cha-Ji\/snowAlgo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1BB363BB8FE9E298C24A27BDD5CAD5B7B8DBE192"
+    }
+  ]
+}
